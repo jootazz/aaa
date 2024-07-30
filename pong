@@ -99,5 +99,4 @@ function incluiPlacar() {
     if (xBolinha < 10) {
         pontosOponente += 1;
     }
-
 }
